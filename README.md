@@ -5,7 +5,8 @@ WTFDL allows you to download whatever the fuck you want using Cloudflare Workers
 
 ## Demo
 [wtfdl.workers.jimmyshjj.top](https://wtfdl.workers.jimmyshjj.top)
-This demo is provided for demonstration purposes only. It is not optimized for actual use, lacks speed optimization, and requires Cloudflare verification. Please deploy your own instance for personal use.
+
+This demo is provided for demonstration purposes only. It is **not** optimized for actual use as it requires Cloudflare verification. Please deploy your own instance for personal use.
 
 ## Usage
 The usage of this service is straightforward. Simply follow the steps below:
